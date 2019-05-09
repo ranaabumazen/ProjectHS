@@ -1,0 +1,1 @@
+export const AD_FETCH_SUCCESS = 'ad_fetch_success';
